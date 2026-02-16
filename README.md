@@ -3,9 +3,6 @@ Counting chickens
 
 ## What We Learned
 
-### Chickens01
-
-### Chickens02
 - how to make code neater
 - how to use shorthand operators
 - how to use math equations in code
